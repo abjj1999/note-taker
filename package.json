@@ -1,0 +1,23 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "[<img src=\"https://img.shields.io/github/languages/top/abjj1999/note-taker?style=flat&logo=appveyor\">](<LINK>)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abjj1999/note-taker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/abjj1999/note-taker/issues"
+  },
+  "homepage": "https://github.com/abjj1999/note-taker#readme"
+}
